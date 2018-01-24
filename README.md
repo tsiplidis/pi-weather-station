@@ -1,4 +1,4 @@
-# pi weather station
+# Pi Weather Station
 Code about weather stations built in schools
 In 2016 several schools around the world, had the opportunity of building a complete weather station using a raspberry pi.
 The Raspberry Pi Foundation in cooperation with Oracle donated a set of sensors and a Pi unit and helped us setup a complete weather station. 
