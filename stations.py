@@ -1,7 +1,6 @@
 from ipywidgets.embed import embed_minimal_html
 import gmaps
 from requests import get
-import json
 url = 'https://apex.oracle.com/pls/apex/raspberrypi/weatherstation/getallstations'
 stations = get(url).json()['items']
 gmaps.configure(api_key="PUT_YOUR_API_KEY_HERE")
